@@ -5,3 +5,14 @@ body {
     font-family: "Josefin Sans", sans-serif;
     margin-bottom: 100px;
 }
+
+header {
+    border-bottom: solid 2px rgb(148, 7, 7);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(148, 7, 7);
+}
+
+.chamada{
+    
+}
