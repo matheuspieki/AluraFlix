@@ -36,7 +36,7 @@ p {
 .categoria-videos {
     display: flex;
     overflow-x: auto;
-    gap: 10px
+    gap: 10px;
 }
 
 .categoria {
@@ -56,5 +56,5 @@ p {
 }
 
 .categoria h2{
-    color: rgb(42, 122, 228)
+    color: rgb(42, 122, 228);
 }
