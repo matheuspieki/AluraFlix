@@ -1,8 +1,8 @@
 body {
-    color: rgb(255, 0, 0);
-    background: rgb(17, 0, 255);
+    color: white;
+    background: black;
     margin: 0px;
-    font-family: "Josefin Sans", sans-serif;
+    font-family: "gstatic", sans-serif;
     margin-bottom: 100px;
 }
 
